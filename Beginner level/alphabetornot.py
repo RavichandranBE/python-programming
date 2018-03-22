@@ -6,3 +6,4 @@ elif (x>'a'):
     print ("alphabet")
 else:
     print ("not alphabet")
+print("zero")
